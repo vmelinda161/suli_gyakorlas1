@@ -7,5 +7,6 @@ Csoki
 Whiskak
 Újság
 Fanta
+Sprite
 Laptop
 PlayStation
