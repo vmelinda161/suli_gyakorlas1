@@ -6,3 +6,5 @@ Majonéz
 Csoki
 Whiskak
 Sprite
+Laptop
+PlayStation
