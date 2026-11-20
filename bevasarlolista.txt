@@ -19,3 +19,7 @@ paprika
 paradicsom
 uborka
 hagyma
+alma
+körte
+szilva
+dinnye
