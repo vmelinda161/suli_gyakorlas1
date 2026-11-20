@@ -12,4 +12,6 @@ Fanta
 Sprite
 Laptop
 PlayStation
-X-boksz 
+X-boksz
+Cd-lemez
+dvd lemez
