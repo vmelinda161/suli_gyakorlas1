@@ -19,3 +19,4 @@ paprika
 paradicsom
 uborka
 hagyma
+tök
